@@ -31,18 +31,22 @@ Sublime
 最近跨平台的新秀，稳定版有v2，现在v3正在beta中。
 安装下来看了一下，直接内置了monokai风格等可以选择。
 启动速度也不错，准备配合TC作为默认editor玩玩。
+->也可以配合ctags，还未配置。
 
 vim
 和Emacs恩怨几十年的玩意，学习曲线高，以前玩过两天放弃。
 有Windows版本（Vim - KaoriYa），安装了放着。
 考虑看情况配合powershell环境使用。
-－》还没有配置PATH，还没有配置好ctag。
-    还得复习常用命令-_-
+->还没有配置PATH，还没有配置好ctag。
+  还得复习常用命令-_-
 
 Visual Studio Code
 微软搞得新玩具，支持GIT，界面个人比较喜欢。
 但是启动时感觉慢的已经不像一个editor了。
 有点鸡肋的感觉，没有继续使用的欲望。
+
+Visual Studio 2015
+也统一换为monokai的主题了。
 
 Total Commander内置editor
 启动速度还行，看着像notepad，
