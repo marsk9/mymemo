@@ -18,6 +18,9 @@ http://totalcmd2.s3.amazonaws.com/tcmd852ax32_64.exe
 
 Installer for normal USB sticks and PortableApps:
 http://www.ghisler.com/usbinst.htm
+
+一本关于 Total Commander 的书
+http://yuedu.baidu.com/ebook/1ec4abf0f46527d3240ce0ab?pn=1&rf=http%3A%2F%2Fyuedu.baidu.com%2Febook%2F1ec4abf0f46527d3240ce0ab
 --------------------------------
 
 Editors
