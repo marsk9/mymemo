@@ -1,0 +1,13 @@
+Git协作流程
+第一步：新建分支
+第二步：提交分支commit
+第三步：撰写提交信息
+  第一行是不超过50个字的提要，然后空一行，罗列出改动原因、主要变动、以及需要注意的问题。最后，提供对应的网址（比如Bug ticket）。
+第四步：与主干同步
+第五步：合并commit
+第六步：推送到远程仓库
+第七步：发出Pull Request
+参考链接：
+http://kb.cnblogs.com/page/535581/
+http://www.ruanyifeng.com/blog/2015/08/git-use-process.html
+https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history
