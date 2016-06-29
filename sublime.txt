@@ -3,3 +3,6 @@ http://www.starlod.net/sublime-text-3-shortcutkey.html
 
 使用Sublime Text3+Ctags+Cscope替代Source Insight
 https://www.zybuluo.com/lanxinyuchs/note/33551
+
+macにpackage control入れたりプラグインいれたり
+http://tweeeety.hateblo.jp/entry/2014/10/01/130945
