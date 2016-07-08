@@ -33,3 +33,7 @@ xcopy %files% %outfiles% /c /e /i /y /z
 robocopy "c:\Bitnami\bak\RedmineBak_DataFolder" "\\server\RedmineBak_DataFolder" /mir
 </pre>
 http://mattari.sumomo.ne.jp/2010/05/bitnami-redmine-%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%82%92%E6%8E%A1%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/
+
+* redmine add field and apply
+
+http://redmine.jp/glossary/c/custom-field/
