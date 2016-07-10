@@ -11,4 +11,5 @@ const in c++
 * dynamic_cast ダウンキャスト。
 
 http://www7b.biglobe.ne.jp/~robe/cpphtml/html02/cpp02041.html
+http://www.geocities.jp/bleis_tift/cpp/newcast.html
 
