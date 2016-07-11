@@ -69,3 +69,6 @@ http://stackoverflow.com/questions/232506/redmine-best-practices
 http://d.hatena.ne.jp/doc1oo/20091010/1255147850
 
 http://qiita.com/Sakade3346/items/7363a32c3db305e3313a
+
+* 注意设定到服务器上bare git repo，这样就无需担心redmine没有更新
+http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/
