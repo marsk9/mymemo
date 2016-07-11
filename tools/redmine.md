@@ -72,3 +72,9 @@ http://qiita.com/Sakade3346/items/7363a32c3db305e3313a
 
 * 注意设定到服务器上bare git repo，这样就无需担心redmine没有更新
 http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/
+
+*Install 「Redmine Issue Importer」
+
+http://liginc.co.jp/web/tutorial/111766
+
+https://github.com/zh/redmine_importer/
