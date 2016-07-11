@@ -62,3 +62,10 @@ https://it-consultis.com/blog/10-ultimate-redmine-tips
 https://kodgiresuhas.wordpress.com/2013/04/10/how-to-use-redmine-effectively/
 
 http://stackoverflow.com/questions/232506/redmine-best-practices
+
+
+* Redmine and git on windows
+
+http://d.hatena.ne.jp/doc1oo/20091010/1255147850
+
+http://qiita.com/Sakade3346/items/7363a32c3db305e3313a
